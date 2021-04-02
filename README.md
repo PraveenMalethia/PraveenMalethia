@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Praveen Malethia <img src="https://scontent.faip1-1.fna.fbcdn.net/v/t1.6435-9/122156641_2712630532282408_3585246166375570111_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=co5kNrjqjQ8AX-9z-DM&_nc_ht=scontent.faip1-1.fna&oh=bfc90a9f347dfd68b4a72e2844de6a8a&oe=608BD31B" width="25px">
+### I'm Praveen Malethia
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Short Description
 - 🔭 I’m currently working on - Python, Django, Vue, Nuxt.
