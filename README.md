@@ -12,5 +12,5 @@
 
 [![Parveen's github stats](https://github-readme-stats.vercel.app/api?username=ParveenMalethia&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ## Connect with me:
-[website]: https://google.com
-[twitter]: https://twitter.com/PraveenMalethia
+[website]: (https://google.com)
+[twitter]: (https://twitter.com/PraveenMalethia)
