@@ -14,4 +14,3 @@
 ## Connect with me:
 [website]: https://google.com
 [twitter]: https://twitter.com/PraveenMalethia
-<br />
