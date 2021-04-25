@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### I'm Praveen Malethia
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Short Description
 - 🔭 I’m currently working on - Python, Django, Vue, Nuxt.
 - 🌱 I’m currently learning - Nodejs
