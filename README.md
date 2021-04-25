@@ -18,5 +18,5 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-[website]: https://praveenmalethia.me
+[website]: http://praveenmalethia.me
 [twitter]: https://twitter.com/PraveenMalethia
