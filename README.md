@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Praveen Malethia
-## Short Description
+
 - 🔭 I’m currently working on - Python, Django, Vue, Nuxt.
 - 🌱 I’m currently learning - Nodejs
 - 👯 I’m looking to collaborate with - Any Business Idea
