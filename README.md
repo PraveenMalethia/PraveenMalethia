@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on - Python, Django, Vue, Nuxt.
 - 🌱 I’m currently learning - Nodejs
-- 👯 I’m looking to collaborate with - Any Business Idea
+- 👯 I’m looking to collaborate with - Any Business or Open Source Idea
 - 💬 Ask me about - Freelancing , Python , Django, Vuejs.
 - 🥅 2021 Goal - Deploy my E-Commerce Website for Production .
 - 📫 How to reach me: Below Links .
