@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Praveen Malethia <p align="right"> <img src="https://komarev.com/ghpvc/?username=PraveenMalethia" alt="PraveenMalethia" /> </p>
+### I'm Praveen Malethia
 
 - 🔭 I’m currently working on - Python, Django, Vue, Nuxt.
 - 🌱 I’m currently learning - Nodejs
