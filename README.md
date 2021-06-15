@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - Nodejs
 - 👯 I’m looking to collaborate with - Any Business or Open Source Idea
 - 💬 Ask me about - Freelancing , Python , Django, Vuejs.
-- 🥅 2021 Goal - Deploy my E-Commerce Website for Production .
+- 🥅 2021 Goal - Deploy my E-Commerce Website for Production but currently leading mumble project .
 - 📫 How to reach me: Below Links .
 
 [![Parveen's github stats](https://github-readme-stats.vercel.app/api?username=PraveenMalethia&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
