@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - Nodejs
 - 👯 I’m looking to collaborate with - Any Business or Open Source Idea
 - 💬 Ask me about - Freelancing , Python , Django, Vuejs.
-- 🥅 2021 Goal - Deploy my E-Commerce Website for Production but currently leading mumble project .
+- 🥅 2022 Goal - Learn => TypeScript , Docker & Kubernetes , React-native , AWS , Three.js .
 
 " If I had 8 hours to chop down a tree, I would spend 6 hours sharpening my axe "
 
