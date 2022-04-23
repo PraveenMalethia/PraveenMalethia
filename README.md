@@ -1,25 +1,13 @@
-### Hi there 👋
+Parveen Malethia, [24-04-2022 02:43 AM]
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+</p>
 
-### I'm Praveen Malethia
 
-- 🔭 I’m currently working on - Python, Django, Vue, Nuxt.
-- 🌱 I’m currently learning - Nodejs
-- 👯 I’m looking to collaborate with - Any Business or Open Source Idea
-- 💬 Ask me about - Freelancing , Python , Django, Vuejs.
-- 🥅 2022 Goal - Learn => TypeScript , Docker & Kubernetes , React-native , AWS , Three.js .
+### Socials
 
-" If I had 8 hours to chop down a tree, I would spend 6 hours sharpening my axe "
-
-- 📫 How to reach me: Below Links .
-
-[![Parveen's github stats](https://github-readme-stats.vercel.app/api?username=PraveenMalethia&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-<!-- Optional if you have blogs -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
-[website]: http://praveenmalethia.me
-[twitter]: https://twitter.com/PraveenMalethia
+<p align="left"> <a href="https://discord.com/users/Praveen#7961" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Praveen.malethia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/praveen-malethia-601060143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/CodingVampirePraveen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
