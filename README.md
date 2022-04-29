@@ -7,7 +7,7 @@ Full Stack Developer
 I've been working as a freelancer and open source contributor in between and also running a YouTube Channel .
 
 * 🌍  I'm based in Punjab , India
-* 🖥️  See my portfolio at [Netlify](http://praveenmalethia.netlify.app/)
+* 🖥️  See my portfolio at [Here](http://praveenmalethia.com/)
 * ✉️  You can contact me at [Prince.Malethia.36@gmail.com](mailto:Prince.Malethia.36@gmail.com)
 * 🚀  I'm currently working on [Invstt](http://invstt.com)
 * 🧠  I'm learning Three.js , React Native
