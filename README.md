@@ -1,7 +1,7 @@
 Hi 👋 My name is Praveen Malethia
 =================================
 
-Full Stack Developer
+Senior Full Stack Developer
 --------------------
 
 I've been working as a freelancer and open source contributor in between and also running a YouTube Channel .
