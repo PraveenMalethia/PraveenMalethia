@@ -1,12 +1,12 @@
-Hi 👋 My name is Praveen Malethia
+Hi 👋 My name is Praveen Kumar
 =================================
 
 Senior Full Stack Developer
 --------------------
 
-I've been working as a freelancer and open source contributor in between and also running a YouTube Channel .
+I've been working as a freelancer, open-source contributor, and running a YouTube Channel.
 
-* 🌍  I'm based in Punjab , India
+* 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [Parveen.Malethia.23@gmail.com](mailto:Parveen.Malethia.23@gmail.com)
 * 🚀  I'm currently working on [Invstt](http://invstt.com)
 
