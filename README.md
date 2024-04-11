@@ -8,7 +8,6 @@ I've been working as a freelancer, open-source contributor, and running a YouTub
 
 * 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [Parveen.Malethia.23@gmail.com](mailto:Parveen.Malethia.23@gmail.com)
-* 🚀  I'm currently working on [Invstt](http://invstt.com)
 
 <a href="https://www.twitter.com/PraveenMalethia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/PraveenMalethia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
