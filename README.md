@@ -1,10 +1,10 @@
-Hi 👋 My name is Praveen Kumar
+Hi 👋 My name is Praveen Malethia
 =================================
 
 Senior Full Stack Developer
 --------------------
 
-I've been working as a freelancer, open-source contributor, and running a YouTube Channel.
+I've been working as a Senior Developer at Exactus Energy.
 
 * 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [Parveen.Malethia.23@gmail.com](mailto:Parveen.Malethia.23@gmail.com)
