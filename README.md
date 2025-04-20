@@ -4,7 +4,7 @@ Hi 👋 My name is Praveen Malethia
 Senior Full Stack Developer
 --------------------
 
-I've been working as a Senior Developer at Exactus Energy.
+I'm working as a Senior Developer at Exactus Energy.
 
 * 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [Parveen.Malethia.23@gmail.com](mailto:Parveen.Malethia.23@gmail.com)
